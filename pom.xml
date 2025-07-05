@@ -8,7 +8,7 @@
     <artifactId>MavenSonarQubeProject</artifactId>
     <version>1.0</version>
 
-    <name>Maven SonarQube Example</name>
+    <name>Maven Example</name>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
